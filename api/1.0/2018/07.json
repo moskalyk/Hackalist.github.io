@@ -1,6 +1,25 @@
 {
     "July": [
         {
+          "title": "NIFTY Hacks",
+          "url": "http://nifty.gg/",
+          "startDate": "July 25",
+          "endDate": "July 26",
+          "year": "2018",
+          "city": "Hong Kong",
+          "host": "Kinetic Capial & Decentraland",
+          "length": "24",
+          "size": "200",
+          "travel": "no",
+          "prize": "yes",
+          "highSchoolers": "unknown",
+          "cost": "free",
+          "facebookURL": "",
+          "twitterURL": "",
+          "googlePlusURL": "",
+          "notes": "In the spirit of conference like the Global Game Jam and ETHGlobal, NIFTY's goal is to gather the best developers in the space and to build a community of collaboration between the different projects."
+        },
+        {
           "title": "DO!Hack 2018",
           "url": "https://dohack.io/",
           "startDate": "July 20",
